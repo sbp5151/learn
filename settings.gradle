@@ -1,0 +1,6 @@
+rootProject.name = "learn"
+include ':app'
+include ':lib_thread'
+include ':lib_io'
+include ':lib_jetpack'
+

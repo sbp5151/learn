@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textview"
+        android:textColor="@color/black"
+        android:layout_width="160dp"
+        android:layout_height="60dp"/>
+
+    <com.example.learn.view.MyButton
+        android:onClick="myclick"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:text="click"/>
+
+</LinearLayout>

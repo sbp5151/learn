@@ -1,0 +1,15 @@
+/.gradle
+/.idea
+*.iml
+/build
+/libs
+/library-part
+/captures
+local.properties
+*.hprof
+sign.bat
+sign.gradle
+build
+/UnitTestReport
+/local.properties
+allModuleReports
