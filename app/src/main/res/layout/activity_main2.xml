@@ -7,15 +7,13 @@
     android:orientation="vertical"
     tools:context=".activity.MainActivity2">
 
-
     <Button
         android:layout_width="100dp"
         android:layout_height="40dp"
         android:layout_centerInParent="true"
-        android:gravity="center"
         android:text="dispatch"
         android:textColor="@color/white"
-        android:textSize="20dp"
+        android:textSize="12sp"
         android:onClick="myclick"/>
 
 </RelativeLayout>
